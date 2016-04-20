@@ -1,4 +1,5 @@
 var assert = require("assert")
+var calculator = require('../js/calculadora')
 
 describe('Calculadora', function() 
 {
